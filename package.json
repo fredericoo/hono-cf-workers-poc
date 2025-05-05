@@ -15,11 +15,10 @@
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@types/bun": "^1.2.0",
+    "miniflare": "^4.20250428.1",
     "turbo": "^2.5.2",
-    "typescript": "5.4.5"
+    "typescript": "5.4.5",
+    "wrangler": "^3.114.8"
   },
-  "packageManager": "pnpm@10.10.0",
-  "dependencies": {
-    "wrangler": "^3.106.0"
-  }
+  "packageManager": "pnpm@10.10.0"
 }
