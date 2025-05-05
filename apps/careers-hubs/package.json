@@ -1,5 +1,5 @@
 {
-	"name": "hono-cf-workers-poc",
+	"name": "server",
 	"private": true,
 	"type": "module",
 	"scripts": {

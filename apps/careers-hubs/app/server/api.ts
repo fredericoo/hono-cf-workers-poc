@@ -7,7 +7,7 @@ const router = t.router;
 
 export const appRouter = router({
 	hello: publicProcedure.query(() => {
-		return "Hello World";
+		return "Hello from tRPC";
 	}),
 });
 
